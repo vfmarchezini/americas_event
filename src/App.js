@@ -28,7 +28,7 @@ function App() {
                 size="sizeIcon60"
               />
               <h1>
-                Transform Together 2025 🇲🇽 Mexico
+                Fintech Américas - 2026
               </h1>
             </Stack>
           </Box>

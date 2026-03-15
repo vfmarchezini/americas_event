@@ -1,5 +1,6 @@
 // services/trans.js
-const FUNCTION_URL = "https://tt-colombia-2025-7160.twil.io/fetch_info.js"; 
+//const FUNCTION_URL = "https://tt-colombia-2025-7160.twil.io/fetch_info.js"; 
+const FUNCTION_URL = "https://events-3647.twil.io/fetch_info"
 const USERNAME = "tt2025";
 const PASSWORD = "2XT8P3Y7VL"; 
 
