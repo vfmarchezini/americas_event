@@ -63,7 +63,7 @@ const PasswordScreen = ({ onAuthenticated }) => {
                 decorative
                 size="sizeIcon60" />
               <span>
-                Transform Together 2025
+                Fintech Américas 2026
               </span>
             </Stack>
           </Heading>
