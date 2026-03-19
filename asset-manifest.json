@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/americas_event/static/css/main.e6c13ad2.css",
+    "main.js": "/americas_event/static/js/main.2276b802.js",
+    "static/js/453.80e079db.chunk.js": "/americas_event/static/js/453.80e079db.chunk.js",
+    "index.html": "/americas_event/index.html",
+    "main.e6c13ad2.css.map": "/americas_event/static/css/main.e6c13ad2.css.map",
+    "main.2276b802.js.map": "/americas_event/static/js/main.2276b802.js.map",
+    "453.80e079db.chunk.js.map": "/americas_event/static/js/453.80e079db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2276b802.js"
+  ]
+}
