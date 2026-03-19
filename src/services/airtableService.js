@@ -73,4 +73,4 @@ export const updateOrderStatus = async (orderId, newStatus) => {
     console.error('Error updating order status:', error);
     throw error;
   }
-}; 
+};  
